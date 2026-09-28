@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi lol :D
+I'm Nelli, just a normal person who likes computers. I enjoy writing in low level environments, while understanding none of what's happening.
 
-<!--
-**nelli-fr/nelli-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I kinda now, top to bottom from best:
+ - C (most familiar with C99 but who cares :P )
+ - C++ (it's like C except not)
+ - Python (everyone knows Python)
+ - Java (I don't really use it, just kind of spawned in my head)
+ - JavaScript (it's NOT same as Java)
+ - Rust (it's memory safe and fast. It's also memory safe)
+---
